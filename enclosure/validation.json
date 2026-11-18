@@ -1,0 +1,40 @@
+{
+  "base": {
+    "watertight": true,
+    "solids": 1,
+    "bounds_mm": [
+      [
+        -8.881784197001252e-16,
+        -8.881784197001252e-16,
+        0.0
+      ],
+      [
+        104.0,
+        50.0,
+        22.0
+      ]
+    ],
+    "volume_mm3": 25626.95,
+    "triangles": 3828
+  },
+  "lid": {
+    "watertight": true,
+    "solids": 1,
+    "bounds_mm": [
+      [
+        -8.881784197001252e-16,
+        -8.881784197001252e-16,
+        0.0
+      ],
+      [
+        104.0,
+        50.0,
+        4.0
+      ]
+    ],
+    "volume_mm3": 10438.45,
+    "triangles": 2620
+  },
+  "envelope_collision_checks": "Passed against base and closed lid; nominal assumed envelopes only",
+  "note": "Geometric checks only. Physical components have not been measured or fit-tested."
+}

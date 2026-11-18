@@ -1,0 +1,34 @@
+{
+  "ESP32S3": [
+    4,
+    16.1,
+    5,
+    21,
+    17.8,
+    4
+  ],
+  "GNSS_stack_allowance": [
+    4,
+    16,
+    10,
+    21,
+    18,
+    8
+  ],
+  "battery_reserved_not_selected": [
+    32,
+    10,
+    3,
+    27,
+    30,
+    8
+  ],
+  "GNSS_antenna_assumed": [
+    66,
+    9,
+    4,
+    32,
+    32,
+    8
+  ]
+}
